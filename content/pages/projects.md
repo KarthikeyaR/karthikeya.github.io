@@ -17,4 +17,4 @@ Slug: projects
 ## Customer Churn Prediction
 [Project details]
 
-[Add more projects with descriptions, images, and links]
+[Add more projects with descriptions, images, and links] 

@@ -5,7 +5,7 @@ SITEURL = 'https://karthikeya.github.io/'
 # Path Configuration
 PATH = 'content'
 OUTPUT_PATH = 'output'
-THEME = 'themes/minimal'
+THEME = 'themes/Flex'
 
 # Menu Items
 MENUITEMS = (
